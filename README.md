@@ -3,7 +3,7 @@
 
 # Steps
 - Setup the following circuit:
-![](C:\Users\ninja\OneDrive\Documents\WLC\WLC-Code\CSC391-IoT\FinalProject\Pictures\CircuitPicture.jpg)
+![](Pictures/CircuitPicture.jpg)
 There are five major sections of this circuit
 - RGB LED
 - 3 Individual LEDs
@@ -15,7 +15,7 @@ These components on their own would make a neat product, however this class is c
 internet component will only heighten this products use!
 
 Through the power of Websockets, we can have a webpage display _and control_ the data and states of the breadboard.
-![](C:\Users\ninja\OneDrive\Documents\WLC\WLC-Code\CSC391-IoT\FinalProject\Pictures\PageScreenshot.png)
+![](Pictures/PageScreenshot.png)
 
 A really simple webpage like above can control the lights in their entirety. Not only that, but the webpage works
 seamlessly with the breadboard components in tandem! Control from both the webpage or the breadboard to your hearts
@@ -235,7 +235,7 @@ Websockets allow two way communication between the board and the webpage. This e
 The bulk of this product is having two way
 communication using Websockets and demonstrating different applications of this concept (in this case with individual LEDs, a
 RGB LED that is synchronized, and full control of them all from two locations at once!).
-![](C:\Users\ninja\OneDrive\Documents\WLC\WLC-Code\CSC391-IoT\FinalProject\Pictures\CircuitPicture2.jpg)
+![](Pictures/CircuitPicture2.jpg)
 
 And this shows the synchronization of the board and webpage.
 
