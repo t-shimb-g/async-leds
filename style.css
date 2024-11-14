@@ -1,0 +1,43 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#rooms {
+    border: solid black;
+}
+
+area {
+    color: black
+}
+
+#RGBroom {
+    background-color: rgb(255, 255, 255);
+}
+
+#RedRoom {
+    background-color: #ffffff;
+}
+
+#GreenRoom {
+    background-color: #ffffff;
+}
+
+#BlueRoom {
+    background-color: #ffffff;
+}
+
+.roomGrid {
+    display: grid;
+    grid-template-columns: auto auto;
+    max-width: 1000px;
+}
+
+.room {
+    display: inline-block;
+    border: solid black;
+    height: 500px;
+    width: 500px;
+    line-height: 500px;
+    text-align: center;
+    font-size: 50px;
+}
